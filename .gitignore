@@ -163,3 +163,4 @@ cython_debug/
 
 # We don't want to push and commit the datasets we download either.
 notebooks/excercises/datasets
+notebooks/notes/datasets
